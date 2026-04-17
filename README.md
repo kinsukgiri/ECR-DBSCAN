@@ -14,4 +14,4 @@ If you use this repository, please consider citing the above work.
 ## 📂 Previous Version
 
 An earlier version of this work is available in:
-https://github.com/ECR-DBSCAN
+https://github.com/kinsuk84/ECR-DBSCAN
